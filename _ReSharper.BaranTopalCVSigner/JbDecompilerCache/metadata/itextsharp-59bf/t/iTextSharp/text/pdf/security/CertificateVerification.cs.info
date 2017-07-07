@@ -1,0 +1,12 @@
+﻿Code version: 6.1.1000.82
+Assembly name itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca mvid {568a47df-fe47-4c52-9df1-eaf146a94c87}
+* ref mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {1c0389f6-d955-493f-b702-c64d3cd6b097}
+* ref System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {6d46701e-f3e7-4df5-85c9-70186b31bd8a}
+* ref System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {242126a5-ecfc-4750-a455-2915b2f6a201}
+* ref System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  mvid {5a37ed04-85f3-4b99-8cef-cf8b8a191763}
+* ref System.Security, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  mvid {248abc49-6c82-4188-8f76-16dd04b7c7f7}

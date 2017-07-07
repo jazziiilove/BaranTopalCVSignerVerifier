@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="CBBD0EF3-B65E-44B7-A1A1-7BB0BFAFD792" ModuleId="BaranTopalCVSigner" />
+  <Module PersistentId="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca" ModuleId="itextsharp" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+</Modules>

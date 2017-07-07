@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaranTopalCVSigner", "BaranTopalCVSigner\BaranTopalCVSigner.csproj", "{CBBD0EF3-B65E-44B7-A1A1-7BB0BFAFD792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBD0EF3-B65E-44B7-A1A1-7BB0BFAFD792}.Debug|x86.ActiveCfg = Debug|x86
+		{CBBD0EF3-B65E-44B7-A1A1-7BB0BFAFD792}.Debug|x86.Build.0 = Debug|x86
+		{CBBD0EF3-B65E-44B7-A1A1-7BB0BFAFD792}.Release|x86.ActiveCfg = Release|x86
+		{CBBD0EF3-B65E-44B7-A1A1-7BB0BFAFD792}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
